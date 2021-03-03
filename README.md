@@ -15,7 +15,16 @@ Layer Control Panel - allowing to select the base map, populations layer, and vo
 
 
 
-https://user-images.githubusercontent.com/55491203/109755516-0993ba80-7c4b-11eb-9528-e9cd4ca206eb.mp4
+![image](https://user-images.githubusercontent.com/55491203/109755661-4364c100-7c4b-11eb-8f64-4a64ea96dfe2.png)
+
+
+
+[![Click here to watch the vedio](images/youtube.png)](https://youtu.be/3TgcqG5pl9Y)
+
+
+
+
+
 
 
 
