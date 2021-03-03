@@ -13,3 +13,4 @@ Polygon layer - green(< 10000000), yellow(between 10000000 and 20000000), red(>=
 
 Layer Control Panel - allowing to select the base map, populations layer, and volcanos layer 
 
+[![Example Video](doc/youtube.gif)](https://youtu.be/3TgcqG5pl9Y?list=PLNG0gKNH1xFsjk_lmQfcQd6gbEuk-C37O)
